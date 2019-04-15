@@ -1,7 +1,8 @@
 # sun
 a useful repository
+ readme-edits
 Welcome, my name is fanqi.
-i am a student of bsu. 
-i am stupid
-hahahaha
+kkkk
 
+i am clever
+master
