@@ -6,3 +6,6 @@ kkkk
 
 i am clever
 master
+
+i have a wonderful desk
+and also a chair
